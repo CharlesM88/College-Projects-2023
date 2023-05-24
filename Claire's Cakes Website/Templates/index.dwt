@@ -1,0 +1,183 @@
+<!doctype html>
+<!-- TemplateBeginEditable name="Header" -->
+<!-- HEAD Section Starts -->
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta http-equiv="X-UA-Compatible" content="ie=edge">
+<meta name="robots" content="index, follow">
+<meta name="description" content="Artisan cake bakery based in Derry/Londonderry, Northern Ireland">
+<title>Claire's Bakery | Good Food | Good People | Derry/Londonderry, Northern Ireland</title>
+<!-- Links to GOOGLE FONTS -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,900&display=swap" rel="stylesheet">
+<!-- Links to the STYLESHEETS -->
+<link href="../assets/css/styles.css" rel="stylesheet" type="text/css">
+</head>
+<!-- HEAD Section Ends -->
+<!-- TemplateEndEditable -->
+<html lang="en"><!-- BODY Section Starts -->	
+<body>
+	
+	
+	
+	
+<!-- TemplateBeginEditable name="Burger Menu" -->
+<!-- BURGER Menu Starts -->
+<nav class="burger-menu">
+  <ul>
+    <li><a href="../index.html">HOME</a></li>
+    <li><a href="#">CAKES</a></li>
+    <li><a href="#">ABOUT US</a></li>
+    <li><a href="#">ORDER</a></li>
+  </ul>
+</nav>
+<!-- BURGER Menu Ends -->
+<!-- TemplateEndEditable -->
+	
+	
+	
+	
+<!-- TemplateBeginEditable name="Navigation" -->
+<!-- HEADER Section Starts -->
+<header class="index-main">
+  <div class="index-main-logo"> <img src="../assets/images/claires-bakery-logo.png" alt="Claire's Bakery Logo"> </div>
+  <nav class="index-main-nav">
+    <ul>
+      <li><a href="../index.html">HOME</a></li>
+      <li><a href="#">CAKES</a></li>
+      <li><a href="#">ABOUT US</a></li>
+      <li><a href="#">ORDER</a></li>
+    </ul>
+  </nav>
+  <div class="index-main-s"> <a href="#">
+    <div class="index-main-s-search"></div>
+    </a>
+    <div class="burger-menu-button"></div>
+  </div>
+</header>
+<!-- HEADER Section Ends -->
+	
+	
+	
+<!-- TemplateEndEditable -->
+	
+	
+	
+<!-- TemplateBeginEditable name="Hero Pod/Heading Image" -->
+<!-- MAIN/Hero Section Starts -->
+<main id="top">
+  <div class="main-intro">
+    <h1><em>Welcome</em></h1>
+    <h1><em>to Claire's Bakery</em></h1>
+    <a href="#">ORDER NOW</a> </div>
+</main>
+<!-- MAIN/Hero Section Ends -->
+<!-- TemplateEndEditable -->
+	
+	
+	
+	
+<!-- TemplateBeginEditable name="Top Text/Description" -->
+<!-- Main About Us Sections Starts -->
+<div class="index-aboutus">
+  <h2 class="index-aboutus-h2">ESTABLISHED IN 2021 <br>
+    <br>
+    ARTISAN BAKER BASED IN DERRY/LONDONDERRY NORTHERN IRELAND. </h2>
+</div>
+<!-- Main About Us Sections Ends -->
+<!-- TemplateEndEditable -->
+	
+	
+	
+	
+<!-- TemplateBeginEditable name="Categories Section" -->
+<!-- CATEGORY Section Starts -->
+<section class="index-category"> <a href="#" class="index-category-box">
+  <div class="dark-overlay"></div>
+  </a> <a href="#" class="index-category-box">
+  <div class="dark-overlay"></div>
+  </a> <a href="#" class="index-category-box">
+  <div class="dark-overlay"></div>
+</a> </section>
+<!-- CATEGORY Section Ends -->	
+<!-- TemplateEndEditable -->
+
+	
+	
+<!-- TemplateBeginEditable name="About Sections" -->
+
+<!-- Description Section Starts -->
+<div class="index-description">
+  <div class="index-description-text">
+    <h2>Lorem ipsum dolor sit amet</h2>
+    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque in ex in erat cursus mollis. Nullam viverra consectetur lacus, ut vehicula libero volutpat quis. Ut at quam faucibus, porttitor quam eu, semper augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aliquam pharetra elit sed interdum mollis. Sed aliquet malesuada sagittis. Cras in congue mi. Quisque sed nulla at augue elementum venenatis a in dolor. Duis ornare dolor eget nunc efficitur bibendum sit amet feugiat nisi. Sed dictum vel leo non accumsan. Ut ante leo, imperdiet a nisl at, malesuada iaculis dui. Nam finibus, dolor ut viverra ultrices, arcu nisl venenatis ipsum, vel pharetra ante magna in sem. <br>
+   </p>
+  </div>
+</div>
+<!-- Description Section Ends -->
+
+	
+	
+	
+<!-- TemplateEndEditable -->
+	
+	
+	
+<!-- TemplateBeginEditable name="Footer" -->
+<!-- FOOTER Section Starts -->
+<footer class="footer-main">
+  <div class="footer-backtotop-flex"> <a class="footer-backtotop" href="#top">BACK TO THE TOP</a> </div>
+  <div class="footer-col-a-copyright">
+    <div class="footer-copyright-icon"></div>
+    <div class="footer-copyright-text">
+      <p>Clarie's Bakery</p>
+    </div>
+  </div>
+  <div class="footer-col-b-sm"> <a href="../www.facebook.com">
+    <div class="footer-sm-fb"></div>
+    </a> <a href="../www.instagram.com">
+      <div class="footer-sm-in"></div>
+      </a> <a href="../www.twitter.com">
+        <div class="footer-sm-twit"></div>
+        </a> <a href="../www.snapchat.com">
+          <div class="footer-sm-snap"></div>
+          </a> <a href="../www.tiktok.com">
+            <div class="footer-sm-tik"></div>
+          </a> </div>
+  <div class="footer-col-c-address">
+    <ul>
+      <li>
+        <p><strong>GET IN TOUCH:</strong></p>
+      </li>
+      <li>
+        <p>028 7187 8399</p>
+      </li>
+      <li>
+        <p>Claire@CBakery.com </p>
+      </li>
+      <li>
+        <p>5 Bishop Street<br>
+          Derry/Londonderry<br>
+          BT48 6PL</p>
+      </li>
+    </ul>
+  </div>
+</footer>
+<!-- FOOTER Section Ends -->
+<!-- TemplateEndEditable -->
+	
+	
+	
+<!-- JavaScript Section Starts -->	
+	<script src="../assets/js/main.js"></script>
+<!-- JavaScript Section Ends-->	
+
+	
+	
+	
+</body>
+<!-- BODY Section Ends -->	
+
+</html>
